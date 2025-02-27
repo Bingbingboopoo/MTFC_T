@@ -3,4 +3,5 @@ This repository contains the implementation of the MTFC-T model for bearing faul
 # 1、MTFC-T(Our)
  Our code is being prepared for release, please wait a moment.
 # 2、QCNN
-Liao, J.-X., et al., Attention-embedded quadratic network (qttention) for effective and interpretable bearing fault diagnosis. IEEE Transactions on Instrumentation and Measurement, 2023. 72: p. 1-13.
+Liao J X, Dong H C, Sun Z Q, et al. Attention-embedded quadratic network (qttention) for effective and interpretable bearing fault diagnosis[J]. IEEE Transactions on Instrumentation and Measurement, 2023, 72: 1-13.
+https://doi: 10.1109/TIM.2023.325903
