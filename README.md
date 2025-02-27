@@ -1,0 +1,2 @@
+# MTFC-T-A-Bearing-Fault-Diagnosis-Model-Based-on-Comprehensive-Feature-Extraction
+This repository contains the implementation of the MTFC-T bearing fault diagnosis model, which is based on comprehensive feature extraction. The model is designed to diagnose bearing faults using advanced machine learning techniques. The repository also includes the implementations of five comparison models for performance evaluation.
