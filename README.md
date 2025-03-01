@@ -1,4 +1,4 @@
-# MTFC-T-A-Bearing-Fault-Diagnosis-Model-Based-on-Comprehensive-Feature-Extraction
+# MTFC-T-A-Bearing-Fault-Diagnosis-Model
 This repository contains the implementation of the MTFC-T model for bearing fault diagnosis,also includes five comparison models for performance evaluation, providing a benchmark to assess the effectiveness of the proposed model.
 # 1、MTFC-T(Our)
  Our code is being prepared for release, please wait a moment.
