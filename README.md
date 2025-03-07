@@ -12,3 +12,15 @@ Jia L, Chow T W S, Wang Y, et al. Multiscale residual attention convolutional ne
 Chen H, Meng W, Li Y, et al. An anti-noise fault diagnosis approach for rolling bearings based on multiscale CNN-LSTM and a deep residual learning model[J]. Measurement Science and Technology, 2023, 34(4): 045013.
 # 6、MBMSCNN
 Peng D, Wang H, Liu Z, et al. Multibranch and multiscale CNN for fault diagnosis of wheelset bearings under strong noise and variable load condition[J]. IEEE Transactions on Industrial Informatics, 2020, 16(7): 4949-4960.
+#  Dependencies
+torch==2.2.0
+python==3.9
+torchvision==0.17.0
+torchinfo==1.8.0
+torchsummary==1.5.1
+numpy==1.26.4
+pandas==2.2.3
+scikit-learn==1.5.1
+scipy==1.13.1
+matplotlib==3.9.2
+seaborn==0.13.2
