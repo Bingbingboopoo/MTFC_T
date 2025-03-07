@@ -13,6 +13,7 @@ Chen H, Meng W, Li Y, et al. An anti-noise fault diagnosis approach for rolling 
 # 6、MBMSCNN
 Peng D, Wang H, Liu Z, et al. Multibranch and multiscale CNN for fault diagnosis of wheelset bearings under strong noise and variable load condition[J]. IEEE Transactions on Industrial Informatics, 2020, 16(7): 4949-4960.
 #  Dependencies
+
 torch==2.2.0
 python==3.9
 torchvision==0.17.0
