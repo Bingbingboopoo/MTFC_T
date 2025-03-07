@@ -1,4 +1,4 @@
-#一、 A-Bearing-Fault-Diagnosis-Model
+# 一、 A-Bearing-Fault-Diagnosis-Model
 This repository contains the implementation of the model for bearing fault diagnosis,also includes five comparison models for performance evaluation, providing a benchmark to assess the effectiveness of the proposed model.
 # 1、(Our)
  Our code is being prepared for release, please wait a moment.
@@ -12,7 +12,7 @@ Jia L, Chow T W S, Wang Y, et al. Multiscale residual attention convolutional ne
 Chen H, Meng W, Li Y, et al. An anti-noise fault diagnosis approach for rolling bearings based on multiscale CNN-LSTM and a deep residual learning model[J]. Measurement Science and Technology, 2023, 34(4): 045013.
 # 6、MBMSCNN
 Peng D, Wang H, Liu Z, et al. Multibranch and multiscale CNN for fault diagnosis of wheelset bearings under strong noise and variable load condition[J]. IEEE Transactions on Industrial Informatics, 2020, 16(7): 4949-4960.
-##二、 Dependencies
+# 二、 Dependencies
 
 ```txt
 torch==2.2.0
